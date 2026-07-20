@@ -1,0 +1,3592 @@
+{
+  "train": [
+    {
+      "id": "0114",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0541",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0711",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0520",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0603",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0890",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0369",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0717",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0480",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0798",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0441",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0834",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0131",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0752",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0424",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0537",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0297",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0697",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0734",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0873",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0800",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0835",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0850",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0693",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0749",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0632",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0417",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0217",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0622",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0843",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0557",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0359",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0167",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0766",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0538",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0464",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0574",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "b0004",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "0570",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0652",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0530",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0243",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0476",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0415",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0524",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0191",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0786",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0378",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0927",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0947",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0455",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0513",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0675",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0281",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0361",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0489",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0904",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0342",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0571",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0565",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0874",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0926",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0674",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0913",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "1005",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0657",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0576",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0293",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0683",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0564",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0401",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0150",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0290",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0392",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0256",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0326",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0411",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0416",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0126",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0113",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0451",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0796",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0778",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0876",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0644",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0587",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0690",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0844",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0139",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0896",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0774",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0531",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0785",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0818",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0911",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0853",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0170",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0352",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0322",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0440",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0929",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0783",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0620",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0673",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0413",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0920",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0377",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0142",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0471",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0928",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0803",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0813",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0446",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0453",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0507",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0615",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0866",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0751",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0943",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0895",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0292",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0203",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0470",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0696",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0265",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0109",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "1028",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0878",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0712",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0660",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0389",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0792",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0179",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0521",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "1030",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0812",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0642",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0750",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0936",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0168",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0402",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0776",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0478",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0689",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "1000",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0580",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0429",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0946",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0336",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0925",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0460",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0289",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0761",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0891",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0189",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0555",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0266",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0124",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0858",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0899",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0647",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0691",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0781",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0140",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0120",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0586",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0784",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0100",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "b0006",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "0713",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0484",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0654",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0169",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0816",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0938",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0522",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0725",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "1022",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0611",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0353",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0514",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0367",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0525",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0469",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0914",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0349",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0171",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0462",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0490",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0791",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0567",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0591",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0223",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0747",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0426",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "1025",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0561",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0648",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0715",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0708",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0192",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0206",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0937",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0240",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0662",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0893",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0493",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0802",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0418",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0730",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0768",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0337",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0573",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0164",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0410",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0323",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0372",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0210",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0250",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0634",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0566",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0311",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "1021",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0385",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0207",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0832",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0656",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0548",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0387",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0598",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0219",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0594",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0854",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0741",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0183",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0267",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0239",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0605",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0371",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0463",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0412",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0340",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0534",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0789",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0312",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0252",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0275",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0181",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0933",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0663",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0182",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0560",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0230",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0948",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0283",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0475",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "1015",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0746",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0629",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0151",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0825",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0439",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0222",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0504",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0404",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0110",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0883",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0234",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0607",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0720",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "b0011",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "0658",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0209",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0296",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0930",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0907",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0532",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "b0008",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "0630",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0309",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0533",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0261",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0612",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0339",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0153",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0903",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0651",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0692",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0865",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "b0013",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "0331",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0305",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0737",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0924",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0885",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0125",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0641",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0414",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0225",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0575",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0702",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0771",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0721",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0358",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0383",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0902",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0130",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0797",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0272",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0193",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0511",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0549",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0208",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0268",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0491",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0244",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0805",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0260",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0596",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0325",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0274",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0184",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0138",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0636",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0498",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0855",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0423",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0552",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0921",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0220",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0477",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0940",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0467",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0553",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0830",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0215",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0828",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0380",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0316",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0242",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0714",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0403",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "1011",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0769",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0400",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0680",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0583",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0932",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0314",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0278",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0300",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0817",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0892",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0563",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0699",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0348",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0254",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0149",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0432",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0618",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0772",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0499",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0449",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0649",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0515",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0597",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "1007",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0448",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0894",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0334",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0313",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0875",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0738",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0760",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0870",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0255",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0122",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0319",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0231",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0677",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0364",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0443",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "1017",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0241",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0916",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0295",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0637",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0814",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0623",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0582",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0687",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0362",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0810",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0279",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0684",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0157",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0787",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0820",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0767",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0827",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0333",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0428",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0847",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0592",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0421",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0188",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0867",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0945",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0320",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0159",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0473",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0540",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0732",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0229",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0601",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0880",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0288",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0758",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0527",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0672",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0269",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0646",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0869",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0270",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0740",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0447",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0526",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0901",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0218",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0562",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0819",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0407",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0409",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0694",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0394",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0588",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0621",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0450",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0102",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0116",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0395",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0155",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0593",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0547",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0685",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0595",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0213",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0115",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0457",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0442",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0639",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0502",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0590",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0354",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0640",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0226",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0148",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0408",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0908",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0405",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0245",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0284",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0578",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0161",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0556",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0506",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0523",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0251",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0294",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0763",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0722",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "1008",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0625",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0505",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0374",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0211",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0516",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0198",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0379",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0162",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0743",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0487",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0518",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0528",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0147",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0841",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0121",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0303",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0609",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0492",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0343",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0384",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0931",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0915",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0860",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0474",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0190",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0824",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "1027",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0160",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0185",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0829",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0500",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0744",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0435",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0152",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0111",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0794",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0881",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0519",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0705",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0910",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0852",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0341",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0444",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0301",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0315",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0396",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "1032",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0204",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0205",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0912",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0259",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0212",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0479",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0101",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0438",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0780",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0671",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0381",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0436",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0840",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0707",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0406",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0782",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0686",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0655",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0682",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0174",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0273",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0831",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0117",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0123",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0862",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0503",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0496",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0238",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0889",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0617",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0328",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0884",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0382",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0344",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0898",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0668",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "1034",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0197",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0106",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0871",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0264",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0550",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0346",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0742",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0753",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0246",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0178",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0614",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0610",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0918",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0822",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0638",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0529",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "1002",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0132",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0497",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0701",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0645",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0790",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0351",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0434",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "1020",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0200",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0509",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0667",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0795",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0397",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0539",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0729",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0437",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0199",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0917",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0299",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0703",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0877",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0376",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0544",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0872",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "1033",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0237",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0307",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "1026",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0194",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0604",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0187",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0879",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0666",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0559",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0135",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0332",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0801",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0919",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0247",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0848",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0235",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "1014",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0886",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0799",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "1013",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0365",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0228",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0425",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0546",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0108",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0249",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0172",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0512",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0589",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    }
+  ],
+  "val": [
+    {
+      "id": "0748",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0430",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0501",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0944",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0175",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0285",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0585",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0736",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0345",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0569",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0616",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0695",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0280",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0733",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0399",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0745",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0355",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0350",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0659",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0723",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0465",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0909",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0104",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0836",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0173",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0739",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0119",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0156",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "1018",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0718",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0366",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0626",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0731",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0136",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0472",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0808",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0388",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0373",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0233",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0558",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0613",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0579",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0838",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "1019",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0868",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0481",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0357",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0882",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0811",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0599",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0788",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0664",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0888",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0221",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0631",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0568",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0764",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0202",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0214",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0624",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0112",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0572",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0180",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0942",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0807",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0386",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0165",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0390",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0454",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0431",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0823",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0177",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0619",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0486",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0710",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0137",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0665",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0653",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0277",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0420",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0837",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "1003",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0821",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0815",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "b0003",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "0459",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0716",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0253",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0602",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0271",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0681",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "b0005",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "0176",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0900",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0216",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0543",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0939",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "b0002",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "1004",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0719",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0906",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0949",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0724",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0291",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0809",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0141",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0627",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0308",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0633",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0545",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0849",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0483",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0456",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0186",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0793",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "1012",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0765",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "1029",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0757",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0282",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0286",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0129",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0143",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0635",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0643",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0263",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0857",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0923",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0551",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0698",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0517",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0661",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0368",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0628",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    }
+  ],
+  "test": [
+    {
+      "id": "1016",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0826",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0324",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "b0007",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "0329",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0258",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0554",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0759",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0584",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0678",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0779",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0321",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0458",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0845",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0676",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0356",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0128",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0363",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0510",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0419",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "1010",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0370",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0133",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0445",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0863",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0310",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0688",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0859",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0762",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0318",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0494",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0508",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0276",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "b0012",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "0864",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0608",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0201",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0941",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0756",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0158",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0775",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0773",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "1023",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0375",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0704",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0317",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0488",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0461",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0298",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0485",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0754",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0581",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "1024",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0905",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0224",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "1001",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0154",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0335",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0856",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0327",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0709",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0105",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0145",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0839",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0227",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0600",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0466",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0777",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0700",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0422",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0670",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0103",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0482",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0248",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0669",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0542",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0833",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0144",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0922",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0391",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0726",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0468",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0427",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0118",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0495",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0134",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "b0010",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/backgrounds"
+    },
+    {
+      "id": "0433",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "0861",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0360",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0257",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "1009",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0452",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/04"
+    },
+    {
+      "id": "1006",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0842",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0236",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0934",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0846",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0195",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0935",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/09"
+    },
+    {
+      "id": "0302",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0727",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0535",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0347",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0536",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "1031",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/10"
+    },
+    {
+      "id": "0897",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0755",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0804",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0398",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0606",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0146",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0706",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0679",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0393",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0306",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0163",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0166",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0127",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0577",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/05"
+    },
+    {
+      "id": "0770",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0196",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0650",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/06"
+    },
+    {
+      "id": "0806",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0728",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    },
+    {
+      "id": "0232",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0887",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0262",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0330",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0304",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0338",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/03"
+    },
+    {
+      "id": "0851",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/08"
+    },
+    {
+      "id": "0107",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/01"
+    },
+    {
+      "id": "0287",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/02"
+    },
+    {
+      "id": "0735",
+      "folder": "/Users/pranavvenkatraman/Downloads/Cornell Grasp Data/07"
+    }
+  ]
+}
